@@ -64,3 +64,6 @@ Python · PyTorch · torchvision · OpenCV · pandas · scikit-learn · seaborn/
 
 **Pau Serrano** — Computer Engineering student @ UPC-FIB
 [GitHub](https://github.com/PauSerrano4) · [LinkedIn](https://www.linkedin.com/in/pau-serrano-b35215329)
+
+**Martin Chreno** — Data Science student @ FIIT-STU
+
