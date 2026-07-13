@@ -48,7 +48,7 @@ pip install -r requirements.txt
 jupyter notebook project3.ipynb
 ```
 
-> Note: the dataset (`Dataset.csv` + `Faces/` image folder) is not included in this repo due to size — [link to dataset source / instructions if applicable].
+> Note: the dataset (`Dataset.csv` + `Faces/` image folder) is not included in this repo due to size. Download it from Kaggle: [Face Recognition Dataset](https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset) (31 classes), and place it in the repo root before running the notebook.
 
 ## 🔮 Future Improvements
 
